@@ -5,6 +5,7 @@ Shell Programming
 >1. ## Getting started with Linux
 >	1. ### 리눅스 기초
 >		1. 리눅스의 구조
+<<<<<<< HEAD
 >
 >	2. ### 리눅스 환경 구축
 >		1. 가상머신(Virtual Machine)
