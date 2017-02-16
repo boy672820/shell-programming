@@ -1,5 +1,5 @@
-리눅스 입문과 설치하기
-====================
+리눅스 시작하기
+==============
 
 # 1. 리눅스 기초
 ## 1.1. 리눅스의 구조
@@ -22,16 +22,16 @@
 ### 2.1.1. 가상머신(Virtual Machine) 이란?
 PC에 설치되어 있는 운영체제(호스트 OS)에 가상의 머신을 생성한 후 여기에 다른 운영체제(게스트 OS)를 설치할 수 있도록 해주는 응용 프로그램
 
-### 2.1.1. 가상머신의 종류
+### 2.1.2. 가상머신의 종류
 + VMWare
 + Hyper-V
 + VirtualBox
 
-### 2.1.2. Oracle VM VirtualBox 설치
+### 2.1.3. Oracle VM VirtualBox 설치
 버추얼박스 사이트에서 다운로드
 [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 
-### 2.1.3. 가상머신 만들기
+### 2.1.4. 가상머신 만들기
 Fedora(32bit) 설치
 
 ## 2.2. 페도라 설치하기
