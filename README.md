@@ -3,17 +3,17 @@ Shell Programming
 
 # 목차
 >1. ## Getting started with Linux
->>	1. ### 리눅스 기초
->>		1. 리눅스의 구조
+>	1. ### 리눅스 기초
+>		1. 리눅스의 구조
 >
->>	2. ### 리눅스 환경 구축
->>		1. 가상머신(Virtual Machine)
->>			1. 가상머신(Virtual Machine) 이란?
->>			2. 가상머신의 종류
->>			3. Oracle VM VirtualBox 설치
->>			4. 가상머신 만들기
->>		2. 페도라 설치하기
->>			1. 디스크 파티션 수동 설정하기
+>	2. ### 리눅스 환경 구축
+>		1. 가상머신(Virtual Machine)
+>			1. 가상머신(Virtual Machine) 이란?
+>			2. 가상머신의 종류
+>			3. Oracle VM VirtualBox 설치
+>			4. 가상머신 만들기
+>		2. 페도라 설치하기
+>			1. 디스크 파티션 수동 설정하기
 >
 >2. ## 리눅스 디렉터리와 파일 사용하기
 >	1. ### 리눅스 파일의 종류와 특징
