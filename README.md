@@ -1,5 +1,6 @@
 Shell Programming
 =================
+2017-02-13(월) 리눅스 셸 프로그래밍 교육내용
 
 # 목차
 >1. ## Getting started with Linux
